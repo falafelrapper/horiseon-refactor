@@ -30,7 +30,7 @@ THEN I find a concise, descriptive title
 
 ## The Completed Challenge
 
-After completing the challenge, we should have the same looking site, as viewed below. However, now we have made this website follow accessibility standards and now our site is more optimized to show up in search engines such as Google and Bing.
+After completing the challenge, we should have the same looking site, as viewed below. However, now we have made this website follow accessibility standards and now our site is more optimized to show up in search engines such as Google and Bing. You can click here to view the completed site [here](https://falafelrapper.github.io/horiseon-refactor/)!
 
 ![alt text](./assets/repo-images/site-1.jpg?raw=true "Completed Site 1")
 
